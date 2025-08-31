@@ -5,3 +5,11 @@ An easy to use deterministic random number generator built in python that uses t
 ### Installation
 
 No installation is required, just import rng.py and use the classes provided.
+
+# modified.py
+
+It allows you to run it directly. It will propmpt you to give a hash and two limits (lower and upper) in order to generate a random number within a given range.
+
+Given a hash, the same hash should generate the same random number each time while the range has not changed. It gives you proof of authenticity about the generation process.
+
+I would like to give thanks to the original rng.py author @jordanhatcher who made the hard work and shared it to us.
